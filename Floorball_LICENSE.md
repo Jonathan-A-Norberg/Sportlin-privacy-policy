@@ -1,57 +1,124 @@
-<html>
-<body>
-<h2>Privacy Policy</h2>
-<p>Sportlin built the Floorball Analyzer app as a commercial app. This SERVICE is provided by Sportlin.</p>
-<p>This page is used to inform website visitors regarding our policies with the collection, use, and
-    disclosure of Personal Information if anyone decided to use our Service.</p>
-<p>If you choose to use our Service, then you agree to the collection and use of information in
-    relation with this policy. The Personal Information that we collect are used for providing and
-    improving the Service. We will not use or share your information with anyone except as described
-    in this Privacy Policy.</p>
-<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions,
-    which is accessible at Floorball Anlyzer, unless otherwise defined in this Privacy Policy.</p>
+# Integritetspolicy för Floorball Social
 
-<p><strong>Information Collection and Use</strong></p>
-<p>For a better experience while using our Service, we may require you to provide us with certain
-    personally identifiable information, including but not limited to users name. 
-	The information that we request is will be retained by us and used as described in this privacy policy.</p>
-<p>The app does use third party services that may collect information used to identify you.
+**Senast uppdaterad:** 2024  
+**Företag:** LevelUp Sports AB  
+**Kontakt:** jonathan@lvl-up.net
 
-<p><strong>Log Data</strong></p>
-<p>We want to inform you that whenever you use our Service, in case of an error in the app we collect
-    data and information (through third party products) on your phone called Log Data. This Log Data
-    may include information such as your devices’s Internet Protocol (“IP”) address, device name,
-    operating system version, configuration of the app when utilising our Service, the time and date
-    of your use of the Service, and other statistics.</p>
+---
 
-<p><strong>Cookies</strong></p>
-<p>Cookies are files with small amount of data that is commonly used an anonymous unique identifier.
-    These are sent to your browser from the website that you visit and are stored on your devices’s
-    internal memory.</p>
+## 1. Personuppgiftsansvarig
 
-<p>We want to inform users of this Service that these third parties have access to your Personal
-    Information. The reason is to perform the tasks assigned to them on our behalf. However, they
-    are obligated not to disclose or use the information for any other purpose.</p>
+LevelUp Sports AB är personuppgiftsansvarig för behandlingen av dina personuppgifter. Kontakta oss på jonathan@lvl-up.net om du har frågor.
 
-<p><strong>Security</strong></p>
-<p>We value your trust in providing us your Personal Information, thus we are striving to use
-    commercially acceptable means of protecting it. But remember that no method of transmission over
-    the internet, or method of electronic storage is 100% secure and reliable, and we cannot
-    guarantee its absolute security.</p>
+---
 
-<p><strong>Children’s Privacy</strong></p>
-<p>This Services do not address anyone under the age of 13. We do not knowingly collect personal
-    identifiable information from children under 13. In the case we discover that a child under 13
-    has provided we with personal information, we immediately delete this from our servers. If you
-    are a parent or guardian and you are aware that your child has provided us with personal
-    information, please contact us so that we will be able to do necessary actions.</p>
+## 2. Vilka personuppgifter samlar vi in?
 
-<p><strong>Changes to This Privacy Policy</strong></p>
-<p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page
-    periodically for any changes. These changes are effective immediately, after they are posted on this page.</p>
+**Uppgifter du ger oss:**
+- E-post, lösenord, användarnamn, namn, profilbild
+- Födelsedatum, plats, floorball-information
+- Foton, videor och innehåll du skapar
+- Notifikations- och integritetsinställningar
 
-<p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
-    us.</p>
-</body>
-</html>
+**Uppgifter som samlas in automatiskt:**
+- Enhetsinformation (typ, operativsystem, IP-adress)
+- Användningsdata och crash-rapporter
+- Information från Google Sign-In (om du använder detta)
+
+**Betalningsinformation:**
+- Hanteras av Google Play Store, Apple App Store och RevenueCat
+- Vi lagrar inte kreditkortsnummer direkt
+
+---
+
+## 3. Hur använder vi dina personuppgifter?
+
+- För att tillhandahålla och förbättra appens funktioner
+- För att visa din profil och innehåll till andra användare (enligt dina inställningar)
+- För att hantera prenumerationer och betalningar
+- För att skicka push-notifikationer (om du aktiverat detta)
+- För säkerhet, moderering och att uppfylla juridiska skyldigheter
+
+---
+
+## 4. Delning av personuppgifter
+
+Vi delar personuppgifter med följande tjänsteleverantörer:
+
+- **Firebase (Google):** Autentisering, databas, fil-lagring, push-notifikationer
+- **RevenueCat:** Prenumerationshantering
+- **Google Play Store / Apple App Store:** In-app-köp
+- **Cloudflare Stream:** Video-hosting
+
+Dessa behandlar data enligt sina egna integritetspolicyer. Vissa profiluppgifter kan vara synliga för andra användare enligt dina integritetsinställningar.
+
+---
+
+## 5. Internationell dataöverföring
+
+Dina personuppgifter kan överföras till och lagras på servrar utanför EU/EES (främst USA). Vi säkerställer att sådana överföringar sker i enlighet med GDPR.
+
+---
+
+## 6. Datasäkerhet
+
+Vi använder kryptering (HTTPS/TLS), stark autentisering och begränsad åtkomst för att skydda dina personuppgifter.
+
+---
+
+## 7. Datakonservering
+
+Vi behåller dina personuppgifter så länge som nödvändigt för att tillhandahålla tjänsten eller uppfylla juridiska skyldigheter. När du raderar ditt konto tas dina uppgifter bort inom rimlig tid.
+
+---
+
+## 8. Dina rättigheter (GDPR)
+
+Du har rätt att:
+- Få tillgång till dina personuppgifter
+- Rättelse av felaktiga uppgifter
+- Radering av dina personuppgifter
+- Begränsning av behandlingen
+- Dataportabilitet (få dina uppgifter i strukturerat format)
+- Återkalla samtycke
+- Klaga till Integritetsskyddsmyndigheten (IMY)
+
+Kontakta oss på [e-post] för att utöva dina rättigheter.
+
+---
+
+## 9. Integritetsinställningar
+
+Du kan hantera dina integritetsinställningar i appen:
+- Profilsynlighet (offentlig/privat/vänner)
+- Vilka uppgifter som visas på din profil
+- Push-notifikationer
+- Radera ditt konto
+
+---
+
+## 10. Push-notifikationer
+
+Om du aktiverar push-notifikationer använder vi enhetsinformation för att leverera notifikationer. Du kan inaktivera detta när som helst i appens eller enhetens inställningar.
+
+---
+
+## 12. Ändringar
+
+Vi kan uppdatera denna policy. Betydande ändringar meddelas via appen eller e-post.
+
+---
+
+## 13. Kontakt
+
+**LevelUp Sports AB**  
+E-post: jonathan@lvl-up.net
+
+För mer information om tredjepartstjänster:
+- [Firebase/Google Privacy Policy](https://policies.google.com/privacy)
+- [RevenueCat Privacy Policy](https://www.revenuecat.com/privacy)
+- [Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/)
+
+---
+
+*Denna integritetspolicy är skriven på svenska. Vid eventuella översättningar gäller den svenska versionen.*
