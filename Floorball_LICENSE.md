@@ -1,4 +1,4 @@
-# Integritetspolicy för Floorball Social
+# Integritetspolicy för LevelUp Floorball
 
 **Senast uppdaterad:** 2024  
 **Företag:** LevelUp Sports AB  
