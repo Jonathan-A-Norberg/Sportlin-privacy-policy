@@ -1,3 +1,52 @@
+# Villkor och Integritet för LevelUp Floorball
+
+> **Sammanfattning:** Detta dokument täcker både våra användarvillkor (Terms of Use) och vår integritetspolicy (Privacy Policy). När du använder LevelUp Floorball accepterar du allt som står nedan.
+
+---
+
+## Användarvillkor (Terms of Use)
+
+### 1. Godkännande av villkor
+Genom att skapa ett konto, använda appen eller köpa en prenumeration accepterar du dessa villkor. Om du inte accepterar dem får du inte använda tjänsten. Vi kan uppdatera villkoren när som helst och meddelar större ändringar via appen eller e‑post.
+
+### 2. Konto och säkerhet
+- Du måste vara minst 7 år eller ha nödvändigt samtycke enligt lokala regler.
+- Du ansvarar för att hålla dina inloggningsuppgifter säkra och för all aktivitet på kontot.
+- Vi kan tillfälligt stänga av eller avsluta konton som bryter mot villkoren eller skadar andra användare.
+
+### 3. Tillåten användning, innehåll och moderering
+- Publicera endast material du har rättigheter till och som följer svensk lag, App Store‑policys och god sed.
+- Hat, hot, olagligt innehåll, trakasserier eller publicering av andras persondata är förbjudet.
+- Vi har rätt att ta bort eller dölja innehåll, blockera användare och vidta modereringsåtgärder när vi bedömer att det behövs för att skydda communityn.
+
+### 4. Prenumerationer och betalningar
+- Digitala köp hanteras av **Apple App Store** eller **Google Play Store** och kvittohantering sker via **RevenueCat**. Vi lagrar inte dina betalningsuppgifter.
+- Prenumerationer är auto‑förnyande tills du säger upp dem via respektive appbutik. Uppsägningar måste göras senast 24 timmar före nästa förnyelse.
+- Priser, erbjudanden och provperioder visas i appen och kan variera mellan marknader/stores.
+- Återbetalningar följer respektive butikspolicy (Apple/Google). Kontakta deras support för återköp.
+- RevenueCat samlar in nödvändiga uppgifter (t.ex. app‑specifikt användarID, kvittoinformation) för att validera ditt abonnemang och tillhandahålla kundtjänst.
+
+### 5. Immateriella rättigheter
+- Appen, varumärken, grafik och kod tillhör LevelUp Sports AB eller dess licensgivare.
+- När du laddar upp innehåll ger du oss en icke-exklusiv, global licens att visa materialet i appen och marknadsföra ditt inlägg inom LevelUp Floorball. Du behåller äganderätten.
+
+### 6. Ansvarsbegränsning
+Tjänsten tillhandahålls “i befintligt skick”. Vi ansvarar inte för indirekta skador, förlust av data eller avbrott. Vårt totala ansvar är begränsat till högst de belopp du betalat under de senaste 12 månaderna, i den mån lagen tillåter.
+
+### 7. Uppsägning
+Du kan avsluta kontot från appen (Inställningar → Radera konto). Vi kan avsluta eller suspendera konton som:
+- bryter mot lag, riktlinjer eller andras rättigheter,
+- försöker manipulera poäng, recensioner eller betalningar,
+- använder automatiserade metoder, scrapers eller reverse engineering.
+
+Efter uppsägning tas ditt innehåll och persondata bort inom rimlig tid enligt policyn nedan.
+
+### 8. Kontakt
+**LevelUp Sports AB**  
+jonathan@lvl-up.net
+
+---
+
 # Integritetspolicy för LevelUp Floorball
 
 **Senast uppdaterad:** 2024  
